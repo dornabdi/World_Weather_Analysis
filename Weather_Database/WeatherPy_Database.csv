@@ -1,4 +1,4 @@
-,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Saint-Denis,FR,48.9167,2.3333,48.99,93,90,4.61,overcast clouds
 1,Juneau,US,58.3019,-134.4197,19.99,79,1,7.36,clear sky
 2,Tolaga Bay,NZ,-38.3667,178.3,57.99,73,89,4.85,overcast clouds
